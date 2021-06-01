@@ -1,24 +1,5 @@
-# README
+# Hobbits and Dinosaurs
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This movie review web app was created following the [Pragmatic Studio](https://pragmaticstudio.com/) online Ruby on Rails 6.0 course.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The app is deployed onto Heroku here: https://hobbitsanddinosaurs.herokuapp.com/
